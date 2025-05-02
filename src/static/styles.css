@@ -19,7 +19,7 @@ header {
   text-align: center;
   padding: 20px 0;
   margin-bottom: 30px;
-  background: linear-gradient(90deg, #1a237e, #3949ab);
+  background: linear-gradient(90deg, #00acc1, #26c6da); /* Updated to Cyan shades */
   color: white;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -61,7 +61,7 @@ section h3 {
   margin-bottom: 20px;
   padding-bottom: 10px;
   border-bottom: 1px solid #ddd;
-  color: #1a237e;
+  color: #00acc1; /* Updated to Cyan */
 }
 
 .activity-card {
@@ -80,7 +80,7 @@ section h3 {
 
 .activity-card h4 {
   margin-bottom: 10px;
-  color: #0066cc;
+  color: #00acc1; /* Updated to Cyan */
   font-size: 1.25rem;
 }
 
@@ -120,7 +120,7 @@ section h3 {
 }
 
 button {
-  background-color: #1a237e;
+  background-color: #00acc1; /* Updated to Cyan */
   color: white;
   border: none;
   padding: 10px 15px;
@@ -131,7 +131,7 @@ button {
 }
 
 button:hover {
-  background-color: #3949ab;
+  background-color: #26c6da; /* Updated to Cyan hover shade */
   transform: scale(1.05);
 }
 
